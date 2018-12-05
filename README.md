@@ -1,2 +1,2 @@
-# AMKit
-开发过程中积累的一些东西
+# MasKit
+Develop accumulated components
